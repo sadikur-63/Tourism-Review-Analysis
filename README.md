@@ -49,3 +49,17 @@ python src/visualize_reviews.py
 - `outputs/tables/sentiment_counts.csv`
 - `outputs/figures/top_destinations.png`
 - `outputs/figures/sentiment_distribution.png`
+
+## Results and Visualizations
+
+### Sentiment Distribution
+![Sentiment Distribution](outputs/figures/sentiment_distribution.png)
+
+### Top-Rated Destinations
+![Top-Rated Destinations](outputs/figures/top_destinations.png)
+
+## Project Report
+See [Project Report](report/project_report.md) for the methodology,
+findings, limitations, and conclusion.
+
+  
